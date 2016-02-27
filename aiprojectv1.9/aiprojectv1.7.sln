@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{108E171D-FC2E-A0A8-3B88-749A6DE71C17}") = "aiprojectv1.7", "Assembly-CSharp.csproj", "{8B1ABC6B-953E-2C2E-5B9F-0B06352C1DA6}"
+EndProject
+Project("{108E171D-FC2E-A0A8-3B88-749A6DE71C17}") = "aiprojectv1.7", "Assembly-UnityScript.unityproj", "{7DF2B1FB-A81E-2225-B8C6-3A50371F9913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B1ABC6B-953E-2C2E-5B9F-0B06352C1DA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B1ABC6B-953E-2C2E-5B9F-0B06352C1DA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B1ABC6B-953E-2C2E-5B9F-0B06352C1DA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B1ABC6B-953E-2C2E-5B9F-0B06352C1DA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF2B1FB-A81E-2225-B8C6-3A50371F9913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF2B1FB-A81E-2225-B8C6-3A50371F9913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF2B1FB-A81E-2225-B8C6-3A50371F9913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF2B1FB-A81E-2225-B8C6-3A50371F9913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
